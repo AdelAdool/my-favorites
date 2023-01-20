@@ -1,0 +1,17 @@
+
+body {
+  background-color:aqua;
+  font-family:monospace
+}
+a {
+  color:red;
+}
+a:active{
+  color:green
+}
+a:hover{
+  color:Chartreuse
+}
+a:visited{
+	color:gold
+}
