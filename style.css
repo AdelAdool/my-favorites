@@ -1,0 +1,9 @@
+body {
+  background-color:aqua;
+}
+a {
+  color:red;
+}
+a:active{
+  color:green
+}
